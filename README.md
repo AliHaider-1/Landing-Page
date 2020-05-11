@@ -1,6 +1,6 @@
 # Landing-Page
 
-I was given an assignment to make a tribute page from "Code Your Future" as a part of the application process in the Web Development course.
+I was given an assignment to make a Landing page from "Code Your Future" as a part of the application process in the Web Development course.
                        
                        The Task
 
