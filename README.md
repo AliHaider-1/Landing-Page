@@ -4,8 +4,6 @@ I was given an assignment to make a Landing page from "Code Your Future" as a pa
                        
                        The Task
 
-Register and complete the challenge by designing your own web page here using
-this link: https://learn.freecodecamp.org/../build-a-product-landing-page
 We recommend you to read the CYF webpage guideline document
 Ensure the page includes the test script (as explained in the guideline)
 
